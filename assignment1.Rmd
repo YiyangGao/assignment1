@@ -1,6 +1,6 @@
 ---
 title: "Statistical assignment 1"
-author: "[add your name here - optional] [add your student number here - mandatory]"
+author: "[add your name here - optional] [add your candidate number here - mandatory]"
 date: "[add date here]"
 output: github_document
 ---
@@ -9,7 +9,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Please do not forget to add your name and student number above!
+Please do not forget to add your name and candidate number above!
 
 ## Open data (20 points)
 

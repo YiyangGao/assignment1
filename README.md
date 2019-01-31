@@ -14,19 +14,7 @@ You should do the following.
 
 4. Commit and push both .Rmd and .md files to your repository for assignment 1 (not your personal module repository). You can make several commits for different tasks, but the last commit should be made before 2pm on 5 February.
 
-5. Do not forget to include your student number in your .Rmd file.
+5. Do not forget to include your candidate number in your .Rmd file.
 
 6. Submit a Word document containing the URL of your repository on Bart. You should do this before 2pm on 5 February.
-
-In the table below I will put your marks once I grade your assignments. Your repository will be private and only you and I (and the teaching assistant and the moderator) will be able to see this.
-
-| Element |  Your mark | Max mark |
-| ------- | ---------- | -------- |
-| Open data |  | 20 |
-| Select variables | | 10 |
-| Filter observations | | 10 |
-| Recode data | | 20 |
-| Summarise data | | 10 |
-| Summarise data by sex and age | | 30 |
-| Total | | 100 |
 
