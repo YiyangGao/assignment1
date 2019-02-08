@@ -3,10 +3,10 @@ Statistical assignment 1
 \[add your name here - optional\] \[add your student number here - mandatory\]
 \[add date here\]
 
-Open data (30 points)
----------------------
+Open data
+---------
 
-In this assignment you will work with individual-level data from wave 8 of the Understanding Society. First, you need to open the data set. Please complete the code below.
+(20 points) In this assignment you will work with individual-level data from wave 8 of the Understanding Society. First, you need to open the data set. Please complete the code below.
 
 ``` r
 library(tidyverse)
@@ -130,8 +130,8 @@ Write a couple of sentences with the interpretation of this result. How does thi
 
 In our sample, 54% said that they supported Remain, and 46% supported Leave. Evidently, this is different from the result of the 2016 referendum. A number of factors could affect this: 1) the timing of data collection for the Understanding Society, 2) survey representation errors (coverage, sampling, non-response), 3) measurement error (people unwilling to reveal their true preferences in surveys), 4) differential probability of turnout (saying that you support Remain in a survey is not the same as actually voting in the referendum), 5) our estimates from the Understanding Society have not been weighted properly, etc.
 
-Summarise data by sex and age
------------------------------
+Summarise data by sex and age (30 points)
+-----------------------------------------
 
 Now let us look at support by Leave and Remain by sex and age. Use your newly created variables.
 
