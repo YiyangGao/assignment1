@@ -3,10 +3,10 @@ Statistical assignment 1
 \[add your name here - optional\] \[add your student number here - mandatory\]
 \[add date here\]
 
-Open data
----------
+Open data (20 points)
+---------------------
 
-(20 points) In this assignment you will work with individual-level data from wave 8 of the Understanding Society. First, you need to open the data set. Please complete the code below.
+In this assignment you will work with individual-level data from wave 8 of the Understanding Society. First, you need to open the data set. Please complete the code below.
 
 ``` r
 library(tidyverse)
